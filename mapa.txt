@@ -1,0 +1,17 @@
+pode_ir(foz,santa_terezinha,30,azul).
+pode_ir(santa_terezinha,sao_miguel,20,laranja).
+pode_ir(sao_miguel,medianeira,10,roxo).
+pode_ir(sao_miguel,itaipulandia,40,verde).
+pode_ir(santa_terezinha,itaipulandia,20,preto).
+pode_ir(itaipulandia,missal,15,verde).
+pode_ir(itaipulandia,medianeira,40,cinza).
+pode_ir(itaipulandia,sao_miguel,40,vermelho).
+pode_ir(medianeira,matelandia,30,azul).
+pode_ir(matelandia,santa_tereza,30,amarelo).
+pode_ir(matelandia,toledo,40,roxo).
+pode_ir(toledo,cascavel,50,cinza).
+pode_ir(santa_tereza,ceu_azul,30,verde).
+pode_ir(ceu_azul,cascavel,30,laranja).
+pode_ir(cascavel,corbelia,20,preta).
+pode_ir(cascavel,curitiba,150,azul).
+pode_ir(corbelia,cafelandia,20,verde).
